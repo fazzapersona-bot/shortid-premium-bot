@@ -1,1 +1,26 @@
+body {
+  background-color: #0f0f0f;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+input {
+  width: 80%;
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: #222;
+  color: white;
+  border: 1px solid #555;
+  border-radius: 8px;
+}
+.video {
+  display: inline-block;
+  margin: 10px;
+  text-align: center;
+}
+.video img {
+  width: 150px;
+  border-radius: 8px;
+}
 
